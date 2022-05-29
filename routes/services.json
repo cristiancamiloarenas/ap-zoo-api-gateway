@@ -1,0 +1,12 @@
+{
+  "services": {
+    "employeeService": {
+      "apiName": "ap-zoo-employee-api",
+      "url": "https://ap-zoo-employee-api.herokuapp.com/"
+    },
+    "animalService": {
+      "apiName": "ap-zoo-animal-api",
+      "url": "https://ap-zoo-animal-api.herokuapp.com/"
+    }
+  }
+}
